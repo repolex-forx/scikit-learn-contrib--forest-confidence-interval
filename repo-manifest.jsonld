@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/scikit-learn-contrib/forest-confidence-interval/commit/582058827ab735b3ffc1a18a07590ff977f7e99d",
       "git:hexsha": "582058827ab735b3ffc1a18a07590ff977f7e99d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/scikit-learn-contrib/forest-confidence-interval/commit/79bd7a9687afd7323c21eb472f2f52d3b63a72c9",
