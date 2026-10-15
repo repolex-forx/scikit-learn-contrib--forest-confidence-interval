@@ -1,0 +1,11 @@
+{
+  "org": "scikit-learn-contrib",
+  "repo": "forest-confidence-interval",
+  "versions": [
+    {
+      "commit": "582058827ab735b3ffc1a18a07590ff977f7e99d",
+      "tag": "",
+      "parsed_at": "2026-10-15T21:35:18.299885+00:00"
+    }
+  ]
+}
